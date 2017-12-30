@@ -4,7 +4,7 @@
 
 **目录**
 
-* [Preface](http://math.hws.edu/javanotes/preface.html)
+* [前言](./preface.md)
 * [Chapter 1: Overview: The Mental Landscape](http://math.hws.edu/javanotes/preface.html)
 * [Chapter 2: Programming in the Small I: Names and Things](http://math.hws.edu/javanotes/c2/index.html)
 * [Chapter 3: Programming in the Small II: Control](http://math.hws.edu/javanotes/c3/index.html)
