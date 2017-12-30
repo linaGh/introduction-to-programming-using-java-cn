@@ -100,20 +100,20 @@ These files were not originally meant for publication, and therefore are not ver
 
 ---
 
-> Professor David J. Eck
-> Department of Mathematics and Computer Science
-> Hobart and William Smith Colleges
-> 300 Pulteney Street
-> Geneva, New York 14456, USA
-> Email: eck@hws.edu 
-> WWW: [http://math.hws.edu/eck/][11]
-> 
-> 大卫·j·艾克(David J. Eck)教授
-> 数学和计算机科学系
-> 霍巴特威廉史密斯学院
-> 美国纽约州日内瓦区普尔特尼街300号
-> 邮件：eck@hws.edu
-> 网站：[http://math.hws.edu/eck/][11]
+> Professor David J. Eck  
+> Department of Mathematics and Computer Science  
+> Hobart and William Smith Colleges  
+> 300 Pulteney Street  
+> Geneva, New York 14456, USA  
+> Email: eck@hws.edu  
+> WWW: [http://math.hws.edu/eck/][11]  
+
+> 大卫·j·艾克(David J. Eck)教授  
+> 数学和计算机科学系  
+> 霍巴特威廉史密斯学院  
+> 美国纽约州日内瓦区普尔特尼街300号  
+> 邮件：eck@hws.edu  
+> 网站：[http://math.hws.edu/eck/][11]  
 
 [1]: http://math.hws.edu/javanotes/
 [2]: http://math.hws.edu/eck/cs124/javanotes1/
